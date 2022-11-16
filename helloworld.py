@@ -1,4 +1,4 @@
 def say_hello(name):
- print(f"Hello,{name}!")
+ print("Welcome,{name}!")
 
 say_hello("Hayda")
